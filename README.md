@@ -2,6 +2,9 @@
 
 **FastLabel** is a lightweight, cross-platform Python application for labeling images with **Bounding Boxes** (Detection) and **Polygons** (Segmentation).  
 *Es una aplicación ligera y multiplataforma en Python para etiquetar imágenes con **Cajas Delimitadoras** (Detección) y **Polígonos** (Segmentación).*
+<p align="center">
+  <img src="image.png" alt="FastLabel Interface" width="800">
+</p>
 
 Designed to create datasets for training AI models like YOLO (v5, v8, v11).  
 *Diseñada para crear datasets para entrenar modelos de IA como YOLO (v5, v8, v11).*
